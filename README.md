@@ -1,6 +1,6 @@
 # Blog API
 
-[![CI](https://github.com/kumarnenavath5815-cpu/blog-api/actions/workflows/ci.yml/badge.svg)](https://github.com/kumarnenavath5815-cpu/blog-api/actions/workflows/ci.yml)
+[![CI](https://github.com/Nanikss/blog-api/actions/workflows/ci.yml/badge.svg)](https://github.com/Nanikss/blog-api/actions/workflows/ci.yml)
 
 A REST API for a small blog platform: **register/login → write drafts → publish → comment and like**. I built it to show the parts of a content API that are easy to get subtly wrong: who can see and change what, stable URLs, pagination that doesn't skip or repeat rows, and writes that are safe to retry.
 
